@@ -26,6 +26,9 @@ const controllers = {
     //req.baseUrl.slice(1)
     helpers.getOne(req.params.productId)
       .then((data) => {
+        var fixed = data[0].images.split('|');
+        data[0].images = fixed;
+        // data.images = fixed;
         res.status(202).send(data);
       })
       .catch((err) => {
