@@ -36,6 +36,16 @@ const controllers = {
       })
   },
 
+  getByName: (req, res) => {
+    helpers.getByName(req.params.name)
+      .then((data) => {
+        res.status(208).send(data)
+      })
+      .catch((err) => {
+        res.status(408).send(err)
+      })
+  },
+
   update: (req, res) => {
     helpers.update(req.params.productId, req.body)
       .then((item) => {

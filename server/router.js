@@ -12,4 +12,8 @@ router
   .put(controllers.update)
   .delete(controllers.delete)
 
+router
+  .route('/api/name/:name')
+  .get(controllers.getByName)
+
 module.exports = router;
