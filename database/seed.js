@@ -19,7 +19,7 @@ for (var i = 0; i < 3; i++) {
   realProduct.size = seedData[i].size;
   realProduct.images = seedData[i].images;
   realProduct.description = `${faker.commerce.productAdjective()} ${faker.commerce.productMaterial()} ${faker.commerce.product()}`;
-
+  console.log(faker.random.image())
   products.push(realProduct);
 }
 
@@ -34,6 +34,7 @@ for (var i = 3; i < 100; i++) {
   product.price = Math.floor(Math.random() * 500) + 0.95;
   product.size = sizes[Math.floor(Math.random() * 5)];
   product.images = seedData[i].images;
+  
   product.description = `${faker.commerce.productAdjective()} ${faker.commerce.productMaterial()} ${faker.commerce.product()}`;
 
   products.push(product);

@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactModal from 'react-modal';
 
+ReactModal.setAppElement('#product-view');
+
 const customStyles = {
   content : {
     top                   : '10%',
@@ -37,26 +39,28 @@ class FreeShipping extends React.Component {
       color: "#3278AE",
       "margin": "10px 0px 10px 0px"
     }
-    var shippingLogoStyle = {
-      height: "6%",
-      width: "6%",
-      "padding": "0 3px 0 0",
-      "margin": "0 0 -5px 0",
+    var returnStyle = {
+      textDecoration: "none",
+      color: "#3278AE",
+      "margin": "10px 0px 10px 0px"
     }
+  
     return (
       <div className = "KL-modal-wrapper">
         <span className = "KL-shipping-class" style={shippingStyle} onClick={this.handleOpenModal}>
-          <img src="https://rei.github.io/cedar-icons/icons/bus.svg" style={shippingLogoStyle}/>
+          <img className="KL-shipping-bus" src="https://rei.github.io/cedar-icons/icons/bus.svg"/>
           This item ships for FREE!</span>
         <ReactModal
            isOpen={this.state.showModal}
            contentLabel="Free Shipping"
            style={customStyles}
            onRequestClose={this.handleCloseModal}
+           ariaHideApp={true}
         >
           <div className="KL-x-modal" onClick={this.handleCloseModal}>
             <img className="KL-x-symbol" src="https://rei.github.io/cedar-icons/icons/x-lg.svg"/>
           </div>
+          <div>
           <p className="KL-free-shipping-header">FREE U.S. STANDARD SHIPPING on orders of $50 or more including Skis and Snowboards.</p>
             <ul>
               <li>Offer valid 11/1/2019 12:01am – 2/1/2020 11:59pm PT.</li>
@@ -69,7 +73,8 @@ class FreeShipping extends React.Component {
               <li>Offer valid for free oversize shipping for skis, snowboards, Yeti, Otterbox, and RovR Coolers.</li>
               <li>To order by phone, call 1-800-426-4840 Mon-Fri, 5am through 10pm and Sat-Sun, 6am through 9pm PT.</li>
             </ul>
-          <p><a href="#" style={shippingStyle}>Estimated arrival dates</a> are for domestic orders placed today. Estimated arrival dates are not guaranteed. Weather delays and other unforeseen circumstances may impact delivery time.</p>
+          <p><a href="" style={returnStyle}>Estimated arrival dates</a> are for domestic orders placed today. Estimated arrival dates are not guaranteed. Weather delays and other unforeseen circumstances may impact delivery time.</p>
+          </div>
         </ReactModal>
       </div>
     );

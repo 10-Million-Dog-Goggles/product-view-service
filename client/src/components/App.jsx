@@ -21,7 +21,7 @@ class App extends React.Component {
   //pass in an id route
   componentDidMount() {
     var id = window.location.href.slice(22);
-    if (id === '') { id = 0 }
+    if (id === '') { id = 1 }
     this.getOne(id);
   }
 
@@ -43,14 +43,14 @@ class App extends React.Component {
       .then((res) => {
         this.setState({
           element: res.data[0]
-        }, () => console.log(this.state.element.images))
+        })
       })
       .catch(err => console.error(err))
   }
 
   render() {
     return(
-      <div className=".KL-body">
+      <div className="KL-body">
         {this.state.element && <Display element={this.state.element}/>}
       </div>
     )

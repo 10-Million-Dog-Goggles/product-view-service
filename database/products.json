@@ -1,21 +1,24 @@
 [
   {
-  "productId": 0,
-  "name": "Rex Specs Dog Goggles - Small",
-  "brand": "Rex Specs",
-  "item": 160541,
-  "color": "Black/Clear/Smoke",
-  "rating": 5.0,
-  "price": 79.95,
-  "size": "S",
-  "images": [
-    "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-black.jpg",
-    "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-black-dogfront.jpg",
-    "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-black-dogfront2.jpg",
-    "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-pink-dogfront.jpg",
-    "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogsfront.jfif",
-    "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogside.jfif"
-    ]
+    "productId": 0,
+    "name": "Rex Specs Dog Goggles - Small",
+    "brand": "Rex Specs",
+    "item": 160541,
+    "color": "Black/Clear/Smoke",
+    "rating": 5.0,
+    "price": 79.95,
+    "size": "S",
+    "images": [
+      "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-black.jpg",
+      "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-black-dogfront.jpg",
+      "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-black-dogfront2.jpg",
+      "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-pink-dogfront.jpg",
+      "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogsfront.jfif",
+      "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogside.jfif"
+      ],
+    "description": [
+      "Black/Clear/Smoke", "Boy Space Dog", "Really Cold Dog", "Girl Space Dog", "Photogenic Dog", "More Photogenic Dog"
+      ]
   },
   {
     "productId": 1,
@@ -33,6 +36,9 @@
       "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-small-pink-dogfront.jpg",
       "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogsfront.jfif",
       "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogside.jfif"
+      ],
+    "description": [
+      "Army Green/Clear/Smoke", "High Angle Dog", "Sick Goggles", "Girl Space Dog", "Photogenic Dog", "More Photogenic Dog"
       ]
   },
   {
@@ -51,6 +57,9 @@
       "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-medium-orange-dogfront.jfif",
       "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogsfront.jfif",
       "https://hr34-fec-rei.s3-us-west-1.amazonaws.com/Rex-specs-dog-goggles-large-green-dogside.jfif"
+      ],
+    "description": [
+      "Hunter Orange/Clear/Red Mirror", "Freezing Dog", "Even More Sick Goggles", "Freezing Dog and Friend", "Photogenic Dog", "More Photogenic Dog"
       ]
   },
   {
@@ -81,12 +90,12 @@
     "name": "MountainHome Collar",
     "brand": "Wolfgang Man & Beast",
     "images":[
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -94,11 +103,11 @@
     "brand": "Life is good",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Life+is+good)+Dog+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -106,11 +115,11 @@
     "brand": "MTI",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(MTI)+UnderDog+Pet+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -118,11 +127,11 @@
     "brand": "Metolius",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -130,11 +139,11 @@
     "brand": "Mountaineers Books",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Mountaineers+Books)+Best+Hikes+with+Dogs-+Utah.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -142,23 +151,23 @@
     "brand": "Nite Ize",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nite+Dawg+LED+Soft+Disc.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
     "name": "Nitehowl LED Safety Necklace",
     "brand": "Nite Ize",
     "images":[
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -166,11 +175,11 @@
     "brand": "Pau Hana",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Pau+Hana)+Dog+Pad.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -178,11 +187,11 @@
     "brand": "Portland Design Works",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Portland+Design+Works)+Lucky+Cat+Water+Bottle+Cage.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -190,11 +199,11 @@
     "brand": "Rex Specs",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -202,11 +211,11 @@
     "brand": "Rex Specs",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -214,11 +223,11 @@
     "brand": "Rex Specs",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -226,11 +235,11 @@
     "brand": "Rex Specs",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -238,11 +247,11 @@
     "brand": "Cycle Dog",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Cycle+Dog)+High+Roller+Ball.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -250,11 +259,11 @@
     "brand": "Cycle Dog",
     "images":[
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Cycle+Dog)+Trail+Buddy+Dog+Treats.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Eagle+Creek)+Cat+Nap+Rest+Set.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg"
       ]   
   },
   {
@@ -262,11 +271,11 @@
     "brand": "Dust City Wood Stickers",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Dust+City+Wood+Stickers)+Dog+Color+Wood+Sticker.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
@@ -274,11 +283,11 @@
     "brand": "Adventure Medical Kits",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Dog+Heeler+First-Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
@@ -286,11 +295,11 @@
     "brand": "Adventure Medical Kits",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Adventure+Medical+Kits)+ADS+Trail+Dog+First+Aid+Kit.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
@@ -298,11 +307,11 @@
     "brand": "Axiom Cycling Gear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
@@ -310,23 +319,23 @@
     "brand": "Big Agnes",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
     "name": "Dog House 6 Footprint",
     "brand": "Big Agnes",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Footprint.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Axiom+Cycling+Gear)+QR+Dual+Function+Pet+Basket.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
@@ -334,23 +343,23 @@
     "brand": "Big Agnes",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+6+Tent.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
     "name": "Lost Dog 15 Sleeping Bag",
     "brand": "Big Agnes",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg"
     ]
   },
   {
@@ -362,7 +371,7 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -374,31 +383,31 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
     "name": "Tail Wagon Pet Bike Trailer",
     "brand": "Burley",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Burley)+Tail+Wagon+Pet+Bike+Trailer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
     "name": "CC-VL520 Velo 7 Wired Bike Computer",
     "brand": "CatEye",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(CatEye)+CC-VL520+Velo+7+Wired+Bike+Computer.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Dog+House+4+Tent.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -410,7 +419,7 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -422,7 +431,7 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -434,7 +443,7 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -446,19 +455,19 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
     "name": "Woodstock Dog Leash",
     "brand": "Chaco",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -470,7 +479,7 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
@@ -482,31 +491,31 @@
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   },
   {
     "name": "Nitehowl Rechargeable LED Safety Necklace",
     "brand": "Nite Ize",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg"
     ]
   }, 
   {
     "name": "SpotLit LED Carabiner Light",
     "brand": "Nite Ize",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+SpotLit+LED+Carabiner+Light.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Cycle+Dog)+Earth+Friendly+Pick-Up+Bags.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -515,10 +524,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+Olly+Bottle.png",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -527,10 +536,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(OllyDog)+OllyBottle+Water+Bottle+-+34+fl.+oz..png",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -539,10 +548,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Quiksilver)+Waterman+Salty+Dog+Hooded+Rashguard+-+Men's.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -551,10 +560,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Quiksilver)+Waterman+Salty+Dog+Rashguard+-+Men's.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -563,10 +572,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -575,10 +584,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rolla+Roaster)+Marshmallow+and+Hot+Dog+Roasting+Forks+-+Pair.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -587,10 +596,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Approach+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -599,10 +608,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Beacon+Rechargeable+Dog+Safety+Light.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -611,10 +620,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Clear+Lake+Dog+Blanket.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -623,10 +632,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Dirt+Bag+Seat+Cover.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -635,10 +644,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -647,10 +656,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -659,10 +668,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Collar.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -671,10 +680,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Leash.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -683,10 +692,10 @@
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Gnawt-a-Rock+Toy.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Small.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg"
     ]
   },
   {
@@ -694,11 +703,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Gnawt-a-Stick+Toy.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -706,11 +715,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -718,11 +727,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Huck-a-Cone.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -730,11 +739,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Hydro+Plane+Dog+Toy.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -742,11 +751,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Knot-a-Hitch+Dog+Tether+System.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -754,11 +763,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Mt.+Bachelor+Pad+Dog+Bed.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -766,11 +775,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -778,11 +787,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -790,11 +799,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -802,11 +811,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -814,11 +823,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Restcycle+Dog+Bed.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -826,11 +835,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Roamer+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -838,11 +847,11 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+LED+Safety+Necklace.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Front+Range+Dog+Harness.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Flagline+Harness++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(ROARK+REVIVAL)+Dog+and+Duck+Graphic+T-Shirt+-+Men's.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Metolius)+Hang+Dogs+Shoe+Keepers.jpeg"
     ]
   },
   {
@@ -850,10 +859,10 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Stash+Bag++.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -862,10 +871,10 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -874,10 +883,10 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+Bowl.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -885,11 +894,11 @@
     "name": "Trail Runner System",
     "brand": "Ruffwear",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Trail+Runner+System.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -898,10 +907,10 @@
     "brand": "Ruffwear",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -909,11 +918,11 @@
     "name": "SUP Dog Board Pad",
     "brand": "Seattle Sports",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -922,10 +931,10 @@
     "brand": "Seirus",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -934,10 +943,10 @@
     "brand": "Skullcandy",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Skullcandy)+Stash+Wireless+Power+Bank.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -946,10 +955,10 @@
     "brand": "The North Face",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(The+North+Face)+Cat's+Meow+20+Sleeping+Bag+-+Women's.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -958,10 +967,10 @@
     "brand": "Topeak",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Topeak)+Mountain+DA+G+Mini+Pump.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -970,10 +979,10 @@
     "brand": "Ultimate Survival Technologies",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ultimate+Survival+Technologies)+Dog+Tool+a+Long+Multi-Tool.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -982,10 +991,10 @@
     "brand": "United By Blue",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -993,11 +1002,11 @@
     "name": "Dog Waste Bag Dispenser",
     "brand": "United By Blue",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(United+By+Blue)+Dog+Waste+Bag+Dispenser.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Pacific+Loop++.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Palisades+Dog+Pack.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg"
     ]
   },
@@ -1006,7 +1015,7 @@
     "brand": "Vargo",
     "images": [
        "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Vargo)+Titanium+Dig+Dig+Tool.jpeg",
-       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Nite+Ize)+Nitehowl+Rechargeable+LED+Safety+Necklace.jpeg",
+       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Omnijore+Joring+System.jpeg",
        "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Medium.jpeg",
        "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
        "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seirus)+Cat+Tracks.jpeg",
@@ -1018,23 +1027,23 @@
     "brand": "Wild Tribute",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wild+Tribute)+Miami+Vice+Colorado+Golden+T-Shirt.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
     "name": "Antigua Collar",
     "brand": "Wolfgang Man & Beast",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Large.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1042,11 +1051,11 @@
     "brand": "Wolfgang Man & Beast",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+Antigua+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1054,23 +1063,23 @@
     "brand": "Wolfgang Man & Beast",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
     "name": "LokiWolf Leash",
     "brand": "Wolfgang Man & Beast",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+LokiWolf+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+Small.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1078,11 +1087,11 @@
     "brand": "Wolfgang Man & Beast",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+MountainHome+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1090,23 +1099,23 @@
     "brand": "Wolfgang Man & Beast",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Wolfgang+Man+%26+Beast)+OverLand+Collar.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
     "name": "Best Hikes With Dogs - Colorado",
     "brand": "Mountaineers Books",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Colorado.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Rex+Specs)+Dog+Goggles+-+X-Large.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1114,11 +1123,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+Georgia+and+South+Carolina.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1126,11 +1135,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs+-+North+Carolina.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1138,11 +1147,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Arizona.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1150,11 +1159,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Central+California.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1162,11 +1171,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Oregon+-+Second+Edition.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1174,11 +1183,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Oregon+-+Second+Edition.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1186,11 +1195,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Texas+Hill+Country+and+Gulf+Coast.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1198,23 +1207,23 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+With+Dogs-+Western+Washington+-+2nd+Edition.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
     "name": "Best Hikes with Dogs - New Jersey",
     "brand": "Mountaineers Books",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs+-+New+Jersey.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Grip+Trex+Dog+Boots+-+Set+of+4.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1222,11 +1231,11 @@
     "brand": "Mountaineers Books",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/Best+Hikes+with+Dogs-+New+Hampshire+and+Vermont.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
@@ -1234,23 +1243,23 @@
     "brand": "Klean Kanteen",
     "images": [
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Klean+Kanteen)+Kid+Classic+Sport+Cap+Bottle+-+18+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   },
   {
     "name": "H2O Lite Water Bottle - 17 fl. oz.",
     "brand": "GSI Outdoors",
     "images": [
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(GSI+Outdoors)+H2O+Lite+Water+Bottle+-+17+fl.+oz..jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Seattle+Sports)+SUP+Dog+Board+Pad.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Klean+Kanteen)+Kid+Classic+Sport+Cap+Bottle+-+18+fl.+oz..jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Quencher+Dog+Bowl.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Web+Master+Dog+Harness.jpeg",
       "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Float+Coat+Dog+PFD.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Chaco)+Woodstock+Dog+Leash.jpeg",
-      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Big+Agnes)+Lost+Dog+15+Sleeping+Bag.jpeg"
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Singletrak+Dog+Pack.jpeg",
+      "https://fec-rei-product-img.s3-us-west-1.amazonaws.com/(Ruffwear)+Swamp+Cooler+Dog+Cooling+Vest.jpeg"
     ]
   }
 ]

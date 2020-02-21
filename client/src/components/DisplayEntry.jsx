@@ -125,11 +125,11 @@ class DisplayEntry extends React.Component {
         <div className = "KL-shipping-wrapper">
           <div className = "KL-shipping">
             <input type="radio" className="KL-shipping-radio" name="shippingRadio" id="KL-shipping-radio-id"/>
-            <label className="KL-shipping-cursor" for="KL-shipping-radio-id">Ship to address</label>
+            <label className="KL-shipping-cursor" htmlFor="KL-shipping-radio-id">Ship to address</label>
           </div>  
           <div className = "KL-pickup">
             <input type="radio" className="KL-pickup-radio" name="shippingRadio" id="KL-pickup-radio-id"/>
-            <label className="KL-pickup-cursor" for="KL-pickup-radio-id">Pick up in store - Free</label>
+            <label className="KL-pickup-cursor" htmlFor="KL-pickup-radio-id">Pick up in store - Free</label>
           </div>
           <div className = "KL-store-near">
             <FindStore element={this.props.element}/>
