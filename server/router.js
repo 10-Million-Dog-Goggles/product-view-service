@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const controllers = require('./controllers.js');
+const postgrescontroller = require('../database/queries.js');
 
 router
   .route('/api')
@@ -11,6 +12,10 @@ router
   .get(controllers.getOne)
   .put(controllers.update)
   .delete(controllers.delete)
+
+// router
+//   .route('/api/:id')
+//   .get(postgrescontroller.getUserById)
 
 router
   .route('/api/name/:name')

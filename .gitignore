@@ -1,4 +1,5 @@
 node_modules
 items.csv
-/database/images.csv
-/database/products.csv
+database/images.csv
+database/products.csv
+database/rei.sql

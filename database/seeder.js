@@ -14,6 +14,12 @@ var writeTenMillionItems = (writer, encoding, callback) => {
   function write() {
     let ok = true;
     do {
+      const images = [];
+      for (var k = 0; k < 6; k++) {
+        var randimgId = Math.floor(Math.random() * 1084);
+        var url = `https://i.picsum.photos/id/${randimgId}/640/480.jpg`;
+        images.push(url);
+      };
       i -= 1;
       id += 1;
       const name = faker.commerce.productName();
@@ -23,12 +29,15 @@ var writeTenMillionItems = (writer, encoding, callback) => {
       const rating = Math.round(Math.random() * 5);
       const price = faker.random.number(999);
       const size = sizes[Math.floor(Math.random() * 5)];
-      const images = [faker.random.image(), faker.random.image(), faker.random.image(), faker.random.image(), faker.random.image(), faker.random.image()];
+      // // // // // // const images = [faker.random.image(), faker.random.image(), faker.random.image(), faker.random.image(), faker.random.image(), faker.random.image()];
       const description = [faker.commerce.productName(), faker.commerce.productName(), faker.commerce.productName(), faker.commerce.productName(), faker.commerce.productName(), faker.commerce.productName()];
       const data = `${id},${name},${brand.join('')},${item},${color},${rating},${price},${size},${images.join('|')},${description.join('|')}\n`;
       if (i === 0) {
         writer.write(data, encoding, callback);
       } else {
+        if (i % 500000 === 0) {
+          console.log(`At id = `, i)
+        }
         ok = writer.write(data, encoding);
       }
     } while (i > 0 && ok);
