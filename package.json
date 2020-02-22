@@ -7,7 +7,8 @@
     "build": "webpack -d --watch",
     "start": "nodemon server/index.js",
     "seeder": "node ./database/seeder.js",
-    "seedDatabase": "mongoimport -d REIproducts -c products --type csv --file ./items.csv --headerline"
+    "seedDatabase": "mongoimport -d REIproducts -c products --type csv --file ./items.csv --headerline",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
     "@babel/preset-react": "^7.8.3",
     "babel-loader": "^8.0.6",
     "eslint-config-hackreactor": "github:reactorcore/eslint-config-hackreactor",
+    "jest": "^25.1.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
@@ -30,8 +32,10 @@
   "dependencies": {
     "@babel/core": "^7.8.4",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@shelf/jest-mongodb": "^1.1.3",
     "aws-sdk": "^2.610.0",
     "axios": "^0.19.2",
+    "babel-jest": "^25.1.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "csv-writer": "^1.6.0",
@@ -39,10 +43,13 @@
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "mongo": "^0.1.0",
+    "mongodb": "^3.5.3",
     "mongoose": "^5.8.10",
     "morgan": "^1.9.1",
+    "newrelic": "^6.4.1",
     "nodemon": "^2.0.2",
     "path": "^0.12.7",
+    "pg": "^7.18.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-image-magnify": "^2.7.4",

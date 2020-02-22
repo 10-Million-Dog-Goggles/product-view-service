@@ -1,5 +1,11 @@
-const helpers = require('../database/dbHelpers.js');
+// const helpers = require('../database/dbHelpers.js');
+const mongodb = require('mongodb');
+const mongoClient = require('mongodb').MongoClient;
+var url = 'mongodb://localhost/REIproducts';
 
+mongoClient.connect(url, (err, client) => {
+  db = client.db('REIproducts') 
+})
 
 const controllers = {
   get: (req, res) => {
@@ -24,12 +30,26 @@ const controllers = {
 
   getOne: (req, res) => {
     //req.baseUrl.slice(1)
-    helpers.getOne(req.params.productId)
+    var productId = parseInt(req.params.productId);
+    // helpers.getOne(req.params.productId)
+    console.log(productId)
+    db.collection('products').findOne({"productId": productId})
       .then((data) => {
-        var fixed = data[0].images.split('|');
-        data[0].images = fixed;
-        // data.images = fixed;
-        res.status(202).send(data);
+        var product = [{
+          _id: data._id,
+          productId: data.productId,
+          name: data.name,
+          brand: data.brand,
+          item: data.item,
+          color: data.color,
+          rating: data.rating,
+          price: data.price,
+          size: data.size,
+          images: data.images.split('|'),
+          description: data.description.split('|')
+        }]
+        console.log(product)
+        res.status(202).send(product);
       })
       .catch((err) => {
         res.status(402).send(err);
