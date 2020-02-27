@@ -2,4 +2,4 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/App.jsx';
 
-ReactDOM.render(<App />, document.getElementById("product-view"));
+ReactDOM.hydrate(<App />, document.getElementById("product-view"));
